@@ -1,4 +1,3 @@
-```markdown
 # FuzzyTerminal - Intelligent Terminal with NLP
 
 ## Overview
