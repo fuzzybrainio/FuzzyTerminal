@@ -1,0 +1,9 @@
+anthropic
+paramiko
+pyyaml
+rich
+prompt_toolkit
+asyncssh
+openai
+google-generativeai
+ollama

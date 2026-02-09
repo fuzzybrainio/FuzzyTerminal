@@ -1,0 +1,2 @@
+[console_scripts]
+fuzzy = fuzzyterminal.core:main

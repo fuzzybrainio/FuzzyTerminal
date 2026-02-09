@@ -1,0 +1,10 @@
+anthropic
+asyncssh
+pyyaml
+rich
+prompt_toolkit
+ollama
+google-generativeai
+openai
+keyring
+pydantic

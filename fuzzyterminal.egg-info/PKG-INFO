@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: fuzzyterminal
+Version: 1.0.0
+Summary: Intelligent Terminal with NLP and Remote Execution
+Author: FuzzyTerminal Team
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: anthropic
+Requires-Dist: paramiko
+Requires-Dist: pyyaml
+Requires-Dist: rich
+Requires-Dist: prompt_toolkit
+Requires-Dist: asyncssh
+Requires-Dist: openai
+Requires-Dist: google-generativeai
+Requires-Dist: ollama
